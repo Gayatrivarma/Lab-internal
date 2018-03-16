@@ -1,0 +1,64 @@
+body{
+    background-color: dimgray;
+
+}
+header{
+    margin:0% 25% 2% 25% ;
+    border:0px hidden ;
+    background-color: darkcyan;
+    text-decoration-color: blanchedalmond;
+    overflow  : auto;
+    text-align:center;
+}
+.prod img
+{
+    width:100px;
+    height:100px;
+    float:right;
+}
+header img {
+    float:left;
+}
+header a{
+    text-decoration: none;
+    text-decoration-style: solid;
+    padding:0% 1% 0% 0%;
+    color: white;
+}
+.reg{
+    margin:0% 25% 0% 25% ;
+    border:0px hidden ;
+    background-color: rgb(30, 175, 163);
+    font-size: 30px;
+    text-decoration-color: blanchedalmond;
+    overflow:auto;
+}
+.reg .inp , .prod .inp{
+    margin:1% 1% ;
+    width: 80%;
+    padding:1% 1%;
+    border-radius:5px;
+    
+}
+.prod {
+    height:30%;
+    margin:0% 25% 5% 25% ;
+    padding : 2%;
+    border:0px hidden ;
+    background-color: rgb(30, 175, 163);
+    line-break: auto;
+    font-size: 30px;
+    overflow:auto;
+}
+.prod .th{
+    text-decoration-style: dotted;
+}
+.block{
+    padding : 2%;
+    border:1px solid;
+    background-color: rgb(73, 30, 175);
+    
+}
+lr{
+    color:black;
+}
